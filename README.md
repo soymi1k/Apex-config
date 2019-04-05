@@ -9,6 +9,7 @@ autoexec.cfg location
 ~~C:\Program Files (x86)\Origin Games\Apex\cfg~~   
 C:\Users\\[usr name]\Saved Games\Respawn\Apex\local    
 in settings.cfg type: exec autoexec.cfg   
+Make the file read only.   
    
 Due to some bug game wont start with commands in launch options any more. 
 
