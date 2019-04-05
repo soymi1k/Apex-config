@@ -6,7 +6,11 @@ videoconfig.txt location
 C:\Users\\[usr name]\Saved Games\Respawn\Apex\local   
 
 autoexec.cfg location   
-C:\Program Files (x86)\Origin Games\Apex\cfg   
+~~C:\Program Files (x86)\Origin Games\Apex\cfg~~   
+C:\Users\\[usr name]\Saved Games\Respawn\Apex\local    
+in settings.cfg type: exec autoexec.cfg   
+   
+Due to some bug game wont start with commands in launch options any more. 
 
 ### Sli profile   
 Apex Legends.nip   
