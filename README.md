@@ -12,8 +12,12 @@ Due to some bug game wont start with commands in launch options any more. So we 
 in C:\Users\\[usr name]\Saved Games\Respawn\Apex\local\settings.cfg    
 type: exec userconfig.cfg
 
-### Sli profile   
-Apex Legends.nip   
-Load with: Nvidia profile inspector   
-[nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
+## Nvidia profiles ##
+### SLI profile ###
+apex-sli-profile.nip
 
+### SLI Profile + Nvidia settings ###
+apex-sli-profile-and-other.nip
+
+#### Load with #####
+[nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
