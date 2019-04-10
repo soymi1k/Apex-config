@@ -10,7 +10,8 @@ C:\Program Files (x86)\Origin Games\Apex\cfg
     
 Due to some bug game wont start with commands in launch options any more. So we need to load it in another way.   
 in C:\Users\\[usr name]\Saved Games\Respawn\Apex\local\settings.cfg    
-type: exec userconfig.cfg
+type: exec userconfig.cfg    
+and make it read only
 
 ## Nvidia profiles ##
 ### SLI profile ###
