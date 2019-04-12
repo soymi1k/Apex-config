@@ -9,7 +9,12 @@ autoexec.cfg location
 `C:\Program Files (x86)\Origin Games\Apex\cfg`   
     
 Due to some bug game wont start with commands in launch options any more. So we need to load it in another way.   
-in `C:\Users\[usr name]\Saved Games\Respawn\Apex\local\settings.cfg` add `exec userconfig.cfg` and make it read only
+in `C:\Users\[usr name]\Saved Games\Respawn\Apex\local\settings.cfg` add `exec userconfig.cfg` and make it read only   
+
+## Playing 4:3 stretched ##
+You need to change resolution in game to be able to play without black bars (top/bot).   
+Make sure you enable full-screen scaling mode in Nvidia settings.
+
 
 ## Nvidia profiles ##
 ### Performance profile ###
