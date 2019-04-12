@@ -12,11 +12,11 @@ Due to some bug game wont start with commands in launch options any more. So we 
 in `C:\Users\[usr name]\Saved Games\Respawn\Apex\local\settings.cfg` add `exec userconfig.cfg` and make it read only
 
 ## Nvidia profiles ##
-### SLI profile ###
-apex-sli-profile.nip
+### Performance profile ###
+apex-performance-profile.nip
 
-### SLI Profile + Nvidia settings ###
-apex-sli-profile-and-other.nip
+### SLI Profile + Performance profile ###
+apex-sli-and-performance-profile.nip
 
-#### Load with #####
+### Load with ####
 [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
