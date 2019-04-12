@@ -8,6 +8,11 @@
     </Executeables>
     <Settings>
       <ProfileSetting>
+        <SettingNameInfo>Shader Cache</SettingNameInfo>
+        <SettingID>1675263</SettingID>
+        <SettingValue>1</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
         <SettingNameInfo>Texture filtering - Negative LOD bias</SettingNameInfo>
         <SettingID>1686376</SettingID>
         <SettingValue>0</SettingValue>
@@ -25,7 +30,7 @@
       <ProfileSetting>
         <SettingNameInfo>Maximum pre-rendered frames</SettingNameInfo>
         <SettingID>8102046</SettingID>
-        <SettingValue>1</SettingValue>
+        <SettingValue>2</SettingValue>
       </ProfileSetting>
       <ProfileSetting>
         <SettingNameInfo>Texture filtering - Anisotropic filter optimization</SettingNameInfo>
@@ -55,7 +60,12 @@
       <ProfileSetting>
         <SettingNameInfo>Texture filtering - Anisotropic sample optimization</SettingNameInfo>
         <SettingID>15151633</SettingID>
-        <SettingValue>0</SettingValue>
+        <SettingValue>1</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Virtual Reality pre-rendered frames</SettingNameInfo>
+        <SettingID>269553971</SettingID>
+        <SettingValue>1</SettingValue>
       </ProfileSetting>
       <ProfileSetting>
         <SettingNameInfo>Anisotropic filtering setting</SettingNameInfo>
@@ -83,14 +93,49 @@
         <SettingValue>0</SettingValue>
       </ProfileSetting>
       <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Gamma correction</SettingNameInfo>
+        <SettingID>276652957</SettingID>
+        <SettingValue>0</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Mode</SettingNameInfo>
+        <SettingID>276757595</SettingID>
+        <SettingValue>1</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo> </SettingNameInfo>
+        <SettingID>281106605</SettingID>
+        <SettingValue>0</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
         <SettingNameInfo>Anisotropic filtering mode</SettingNameInfo>
         <SettingID>282245910</SettingID>
         <SettingValue>1</SettingValue>
       </ProfileSetting>
       <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Transparency Supersampling</SettingNameInfo>
+        <SettingID>282364549</SettingID>
+        <SettingValue>0</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Setting</SettingNameInfo>
+        <SettingID>282555346</SettingID>
+        <SettingValue>0</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Transparency Multisampling</SettingNameInfo>
+        <SettingID>284962204</SettingID>
+        <SettingValue>0</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
         <SettingNameInfo>Threaded optimization</SettingNameInfo>
         <SettingID>549528094</SettingID>
         <SettingValue>1</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Triple buffering</SettingNameInfo>
+        <SettingID>553505273</SettingID>
+        <SettingValue>0</SettingValue>
       </ProfileSetting>
     </Settings>
   </Profile>
