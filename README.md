@@ -25,3 +25,11 @@ apex-sli-and-performance-profile.nip
 
 ### Load with ####
 [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
+
+##To-do##
+* Adding all available commands to autoexec.cfg
+* Removing all commands that isn't part of apex.
+* Commenting all default values
+* Commenting all descriptions (if available)
+* Creating a default config with all default values to reset all settings.
+* Split out all Performance commands to its own file.
